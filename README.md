@@ -1,4 +1,4 @@
-# HolaMundo
+# HolaPeople
 Mi primer repositorio de prueba 
 
 Autor: Ana C.
